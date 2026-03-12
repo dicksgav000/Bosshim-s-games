@@ -8,6 +8,12 @@ None of these games were made by me. All credit belongs to **BossHim** and the o
 You can find the original games for free here:
 https://gamejolt.com/search/games?q=bosshim
 
+His yt channel can be found here:
+https://www.youtube.com/@BossHim
+
+His scratch profile can be found here:
+https://scratch.mit.edu/users/bosshim/
+
 ---
 
 # About BossHim
@@ -35,7 +41,6 @@ Some of BossHim’s most recognized projects include:
 * **VHS Sans** – A visually striking fight with a glitchy analog-horror aesthetic.
 * **Fatal Error Sans** – Known for extremely difficult and unpredictable attack patterns.
 * **Dustdust Sans (Obsessed Monster)** – A multi-phase battle with detailed animation and intense gameplay.
-* **Hacker’s End** – A mechanically complex fight that has been featured by gaming YouTubers such as **Merg**.
 
 ---
 
